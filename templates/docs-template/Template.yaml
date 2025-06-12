@@ -7,7 +7,7 @@ metadata:
   tags: [docs]
 
 spec:
-  owner: Agents4Good/Fundação
+  owner: Agents4Good/Fundacao
   type: documentation
   parameters:
     - title: Configuração da documentação
