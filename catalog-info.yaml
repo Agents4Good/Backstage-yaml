@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Backstage-yaml
+  annotations:
+    github.com/project-slug: Agents4Good/Backstage-yaml
+spec:
+  type: other
+  lifecycle: unknown
+  owner: fundacao
