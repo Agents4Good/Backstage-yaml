@@ -7,7 +7,7 @@ metadata:
   tags: [api, open-source]
 
 spec:
-  owner: Agents4Good/Fundação
+  owner: Agents4Good/Fundacao
   type: service
   parameters:
     - title: Configuração do projeto
